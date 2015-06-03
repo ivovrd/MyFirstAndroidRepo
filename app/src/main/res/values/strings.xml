@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car catalog</string>
+
+    <string name="car_name">Car name</string>
+    <string name="action_settings">Settings</string>
+</resources>
